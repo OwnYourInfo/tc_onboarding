@@ -2,10 +2,9 @@ TC Developer Onboarding
 ================================
 
 
-BACKGROUND
-----------
+### Background Information
 
-### Market
+#### Market
 
 http://thetrustedcloudcompany.com • Check out current branding and messaging of the new umbrella company.
 
@@ -13,7 +12,7 @@ http://ownyourinfo.com • This is the original product. Get a feel for what we 
 
 http://respectnetwork.com • Home of the network we’re building all of this on top of, where you’ll find short descriptions of high-level concepts in the FAQ and glossary. 
 
-### Technical
+#### Technical
 
 http://guides.rubyonrails.org/engines.html • In order to get the most out of OwnYourInfo we’re going to break up some of its existing functionality into gems and engines.
 
@@ -21,16 +20,14 @@ http://xdi2.projectdanube.org • XDI is the fabric of the personal cloud ecosys
 
 https://github.com/projectdanube/xdi-js • The first version of the XDI ruby client was built as a port of this library. We’ll probably be using this library in tandem with the Ruby client.
 
+### In-house documentation
 
-IN HOUSE DOCUMENTATION
-----------------------
-
-### Market
+#### Market
 
 Trusted Cloud Background • **WIP**
 
 
-### Technical
+#### Technical
 
 OwnYourInfo Documentation • Basic description of how the pieces of OYI fit together. **WIP**
 
@@ -38,11 +35,10 @@ xdi-rb spec • A document describing how to install and use the Ruby XDI client
 
 
 
-ADMINISTRATIVE
---------------
+### Administrative documentation
 
-### Technical
+#### Technical
 
-TTCC Workflow • Version control, testing, workflows and style guides.  **WIP**
+TC Workflow • Version control, testing, workflows and style guides.  **WIP**
 
-TTCC Architecture • High-level technical design of dashboard, connection manager, apps and how they all fit together. **WIP**
+TC Architecture • High-level technical design of dashboard, connection manager, apps and how they all fit together. **WIP**
